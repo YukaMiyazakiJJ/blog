@@ -1,3 +1,10 @@
+body {
+    margin: 0 auto;
+    max-width: 36rem;
+    padding: 2rem 1rem;
+    word-wrap: break-word;
+}
+
 time {
   color:#808080;
 }
